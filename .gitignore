@@ -1,3 +1,22 @@
+# Backup files
+*~
+*.bak
+
+# Emacs temp files
+\#*
+.\#*
+
+# IntelliJ projects
+.idea
+*.iml
+
+# MacOS junk
+.DS_Store
+
+# Bundler files
+.bundle
+
+# The rest of this file is from github
 *.gem
 *.rbc
 /.config

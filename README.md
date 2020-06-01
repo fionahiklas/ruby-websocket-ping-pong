@@ -37,4 +37,12 @@ bundle install --path vendor
 * [Ruby Rack](https://github.com/rack/rack)
 * [Event Machine](http://rubyeventmachine.com)
 * [Gem patterns](https://guides.rubygems.org/patterns/)
+* [Rack spec](https://github.com/rack/rack/blob/master/SPEC.rdoc)
+* 
+
+### Metrics
+
+* [collectd](https://collectd.org)
+* [Ruby collectd](https://github.com/superfeedr/ruby-collectd)
+
 
